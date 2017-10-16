@@ -1,6 +1,7 @@
 .post-editor,
 .post-body {
 	margin: 1em 20%;
+	border-bottom: 1px solid grey;
 }
 
 .post-editor-button {
